@@ -1,3 +1,5 @@
+package designpatterns.SingletonPattern;
+
 public class Logger {
 
     private static Logger instance ;
