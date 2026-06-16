@@ -1,4 +1,4 @@
-package designpatterns.FactoryPattern;
+package designpatterns.FactoryPattern.code;
 
 public class WordDocumentFactory extends DocumentFactory {
 
