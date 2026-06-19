@@ -1,4 +1,4 @@
-package EnginerringConcepts.designpatterns.SingletonPattern.code;
+package EngineeringConcepts.designpatterns.SingletonPattern.code;
 
 public class SingletonTest {
 

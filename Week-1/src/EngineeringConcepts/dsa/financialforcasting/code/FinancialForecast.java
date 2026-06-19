@@ -1,4 +1,4 @@
-package EnginerringConcepts.dsa.financialforcasting.code;
+package EngineeringConcepts.dsa.financialforcasting.code;
 
 public class FinancialForecast {
 

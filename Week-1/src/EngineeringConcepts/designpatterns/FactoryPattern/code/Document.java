@@ -1,4 +1,4 @@
-package EnginerringConcepts.designpatterns.FactoryPattern.code;
+package EngineeringConcepts.designpatterns.FactoryPattern.code;
 
 public interface Document {
     void open();
