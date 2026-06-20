@@ -14,12 +14,7 @@
 
         <property name="bookRepository"
                   ref="bookRepository"/>
-    </bean>
 
-    <bean id="constructorBookService"
-          class="com.library.service.ConstructorBookService">
-
-        <constructor-arg ref="bookRepository"/>
     </bean>
 
 </beans>
