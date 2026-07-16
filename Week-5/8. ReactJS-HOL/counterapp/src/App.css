@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+div {
+  text-align: center;
+  margin-top: 40px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+}
